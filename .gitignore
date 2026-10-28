@@ -1,0 +1,38 @@
+# --- Patient-level data: MIMIC-IV is credentialed under the PhysioNet DUA; never commit it
+data/
+*.parquet
+*.npy
+*.npz
+*.duckdb
+*.csv.gz
+*.dat
+*.hea
+
+# --- Model weights and upstream checkouts (obtain from their sources; see README)
+checkpoint/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+*.partial
+
+# --- Results, logs and manuscript: kept private until publication
+outputs/
+logs/
+*.docx
+*.pdf
+src/wp9_04_manuscript.js
+concept*.md
+
+# --- Python / Node / editors / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+node_modules/
+.idea/
+.vscode/
+.DS_Store

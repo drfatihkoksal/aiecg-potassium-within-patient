@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Analysis code: agreement between AI-enabled electrocardiography and laboratory measurement of within-patient potassium change"
+authors:
+  - family-names: "Köksal"
+    given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0002-4197-4683"
+    affiliation: "Department of Cardiology, University of Health Sciences, Bursa Yüksek İhtisas Training and Research Hospital, Bursa, Türkiye"
+repository-code: "https://github.com/drfatihkoksal/aiecg-potassium-within-patient"
+keywords:
+  - artificial intelligence
+  - electrocardiography
+  - potassium
+  - hyperkalemia
+  - deep learning
+  - MIMIC-IV
