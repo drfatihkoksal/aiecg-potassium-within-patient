@@ -61,3 +61,7 @@ for training).
 ## Citation
 
 See `CITATION.cff`.
+
+## License
+
+MIT License (see `LICENSE`). Third-party code keeps its own license (see `THIRD_PARTY_NOTICES.md`).
