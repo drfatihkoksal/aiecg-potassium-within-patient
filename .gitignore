@@ -22,6 +22,7 @@ outputs/
 logs/
 *.docx
 *.pdf
+src/wp9_03_references.py
 src/wp9_04_manuscript.js
 concept*.md
 

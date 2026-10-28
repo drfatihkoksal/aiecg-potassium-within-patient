@@ -42,7 +42,7 @@ outputs from `data/interim/` and writes tables to `outputs/`):
 | ECGFounder | `ecgf_00` – `ecgf_03` | Checkpoint preparation, preprocessing, fine-tuning, prediction |
 | Stockholm model | `stockholm_01` – `stockholm_03` | Frozen inference with the authors' preprocessing, comparison, report |
 | Exploratory | `wp8_*`, `delta_01_experiment` | Change-specific models (not part of the main analysis) |
-| Manuscript analyses | `wp9_01` – `wp9_03` | Direction vs magnitude analysis, figures, reference list |
+| Manuscript analyses | `wp9_01`, `wp9_02` | Direction vs magnitude analysis, figures |
 
 Shared code: `paths.py` (locations), `wp_stats.py` (patient-level bootstrap,
 Deming regression, intraclass correlation), `wp2_model.py` (ResNet),
