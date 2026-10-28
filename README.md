@@ -60,7 +60,7 @@ for training).
 
 ## Citation
 
-See `CITATION.cff`.
+Archived on Zenodo: [doi:10.5281/zenodo.23737739](https://doi.org/10.5281/zenodo.23737739) (all versions); v1.0.0: [doi:10.5281/zenodo.23737740](https://doi.org/10.5281/zenodo.23737740). See `CITATION.cff`.
 
 ## License
 
