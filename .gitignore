@@ -17,18 +17,11 @@ checkpoint/
 *.zip
 *.partial
 
-# --- Results, logs and manuscript: kept private until publication
+# --- Results and logs (aggregate results are reported in the paper)
 outputs/
 logs/
 *.docx
 *.pdf
-src/wp9_03_references.py
-src/wp9_04_manuscript.js
-src/wp9_06_references_jacc.py
-src/wp9_07_manuscript_jacc.js
-src/wp9_08_central_illustration.py
-src/wp9_09_cover_letter_jacc.js
-concept*.md
 
 # --- Python / Node / editors / OS
 __pycache__/
@@ -41,8 +34,3 @@ node_modules/
 .idea/
 .vscode/
 .DS_Store
-
-# --- Submission records (journal packages, author list, log): private
-submission/
-submission_*/
-SUBMISSION_LOG.md

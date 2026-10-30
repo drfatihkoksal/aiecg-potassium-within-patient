@@ -4,8 +4,8 @@
   Figure 2  published-style selections: group trajectories and rmcorr vs individual r
   Figure 3  the same change read across two patients vs within one patient
 
-JACC figure rules: at least 7 inches wide after cropping, and quantitative data as
-dot plots with error bars (no bar charts).
+Figures are at least 7 inches wide after cropping, with lettering of at least 9 pt;
+quantitative data are shown as dot plots with error bars (no bar charts).
 
 Palette: reference categorical slots 1-3 (validated all-pairs, light mode);
 models also differ by marker shape so identity is never colour-alone.

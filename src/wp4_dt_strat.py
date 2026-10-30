@@ -1,4 +1,4 @@
-"""Delta-t stratification of delta tracking (reviewer-critical).
+"""Delta-t stratification of delta tracking (robustness to the time between ECGs).
 
 How much of the weak within-subject tracking is the model, and how much is the
 <=24 h window letting other things change? Two readings are needed, because dt

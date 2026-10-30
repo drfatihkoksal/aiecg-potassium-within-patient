@@ -1,4 +1,4 @@
-"""Within-patient potassium change tracking by sex (JACC: CEP asks for sex-specific data).
+"""Within-patient potassium change tracking by sex.
 
 Sex is the `gender` field recorded in MIMIC-IV (F/M), taken at the first ECG of each
 pair. For each model and sex the script reports the main change-agreement measures
